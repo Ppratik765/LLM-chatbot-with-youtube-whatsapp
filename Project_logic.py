@@ -15,8 +15,8 @@ import threading
 import queue
 import Plot_a_graph
 
-##EMAIL = "priyanshupratik07@gmail.com"
-##PASSWD = "@eAL&^mN/2FA.yi"
+##EMAIL = REMOVED
+##PASSWD = REMOVED
 ##sign = Login(EMAIL, PASSWD)
 ##cookies = sign.login()
 ##chatbot = hugchat.ChatBot(cookies=cookies.get_dict())
